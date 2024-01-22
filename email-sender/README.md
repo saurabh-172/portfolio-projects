@@ -1,1 +1,1 @@
-# Making an email sender using python inbuild module email and smtplib.
+# An email sender using python inbuild module email and smtplib.
